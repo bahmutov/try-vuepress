@@ -1,0 +1,16 @@
+{
+  "name": "try-vuepress",
+  "version": "1.0.0",
+  "description": "This is an example. Just another [page](./foo.html)",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vuepress": "0.5.1"
+  }
+}
