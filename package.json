@@ -5,12 +5,14 @@
   "main": "index.js",
   "scripts": {
     "dev": "vuepress dev src",
-    "build": "vuepress build src"
+    "build": "vuepress build src",
+    "deploy": "gh-pages -d dist"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "gh-pages": "1.1.0",
     "vuepress": "0.5.1"
   }
 }
