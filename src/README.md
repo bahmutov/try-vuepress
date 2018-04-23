@@ -1,3 +1,3 @@
 # Hello VuePress
 
-This is an example. Just another [page](./foo.html)
+This is an example page. There is also [about](./about.html) page.
